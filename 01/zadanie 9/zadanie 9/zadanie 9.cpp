@@ -15,3 +15,8 @@ int main() {
     }
     return 0;
 }
+ /*
+ WYbrałem c++ ponieważ:
+ -ten język jest mi znany
+ -jest szybki
+ */
