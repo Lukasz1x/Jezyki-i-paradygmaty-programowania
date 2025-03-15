@@ -1,0 +1,8 @@
+**/.idea/
+**/.vs/
+**/public/
+**/x64/
+*.vcxproj*
+*.sln
+*.bak
+*.pdf
