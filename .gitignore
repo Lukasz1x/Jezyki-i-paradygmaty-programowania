@@ -7,4 +7,6 @@
 *.bak
 *.yy.c
 *.out
+*.tab.c
+*.tab.h
 jipp-wyklad.pdf
