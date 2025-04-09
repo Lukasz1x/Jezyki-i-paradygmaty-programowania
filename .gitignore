@@ -6,3 +6,6 @@
 *.sln
 *.bak
 *.pdf
+*.yy.c
+*.out
+jipp-wyklad.pdf
