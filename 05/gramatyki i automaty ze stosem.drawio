@@ -1,0 +1,137 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36" version="26.2.8">
+  <diagram name="Page-1" id="fB4k1KOxyUUdUQq68ayz">
+    <mxGraphModel dx="1426" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="--yt4MyBfFRbsBWCZ8c2-1" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;q&lt;sub style=&quot;&quot;&gt;0&lt;/sub&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="200" y="160" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="--yt4MyBfFRbsBWCZ8c2-2" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;q&lt;sub style=&quot;&quot;&gt;1&lt;/sub&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="360" y="160" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="--yt4MyBfFRbsBWCZ8c2-3" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;q&lt;sub style=&quot;&quot;&gt;2&lt;/sub&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="520" y="160" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="--yt4MyBfFRbsBWCZ8c2-4" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="680" y="160" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="--yt4MyBfFRbsBWCZ8c2-5" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#60a917;strokeColor=#2D7600;strokeWidth=2;" edge="1" parent="1" target="--yt4MyBfFRbsBWCZ8c2-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="200" as="sourcePoint" />
+            <mxPoint x="850" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="--yt4MyBfFRbsBWCZ8c2-6" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;Zadanie 5&lt;br&gt;d)&amp;nbsp;&lt;span style=&quot;box-sizing: content-box; transition: none; display: inline-block; position: relative; border: 0px; padding: 0px; margin: 0px; vertical-align: 0px; line-height: normal; color: rgb(51, 51, 51); text-wrap-mode: nowrap; background-color: rgb(255, 255, 255); width: 11.146em; height: 0px; font-family: &amp;quot;Open Sans&amp;quot;, sans-serif;&quot;&gt;&lt;span style=&quot;box-sizing: content-box; transition: none; position: absolute; border: 0px; padding: 0px; margin: 0px; vertical-align: 0px; line-height: normal; clip: rect(1.273em, 1011.09em, 2.601em, -999.997em); top: -2.191em; left: 0em;&quot;&gt;&lt;span style=&quot;box-sizing: content-box; transition: none; display: inline; position: static; border: 0px; padding: 0px; margin: 0px; vertical-align: 0px; line-height: normal;&quot; id=&quot;MathJax-Span-157&quot; class=&quot;mrow&quot;&gt;&lt;span style=&quot;box-sizing: content-box; transition: none; display: inline; position: static; border: 0px; padding: 0px; margin: 0px; vertical-align: 0px; line-height: normal;&quot; id=&quot;MathJax-Span-158&quot; class=&quot;msubsup&quot;&gt;&lt;span style=&quot;box-sizing: content-box; transition: none; display: inline-block; position: relative; border: 0px; padding: 0px; margin: 0px; vertical-align: 0px; line-height: normal; width: 1.1em; height: 0px;&quot;&gt;&lt;span style=&quot;box-sizing: content-box; transition: none; position: absolute; border: 0px; padding: 0px; margin: 0px; vertical-align: 0px; line-height: normal; clip: rect(3.121em, 1000.64em, 4.16em, -999.997em); top: -3.981em; left: 0em;&quot;&gt;&lt;span style=&quot;box-sizing: content-box; transition: none; display: inline; position: static; border: 0px; padding: 0px; margin: 0px; vertical-align: 0px; line-height: normal; font-family: MathJax_Math-italic;&quot; id=&quot;MathJax-Span-159&quot; class=&quot;mi&quot;&gt;L&lt;/span&gt;&lt;span style=&quot;box-sizing: content-box; transition: none; display: inline-block; position: static; border: 0px; padding: 0px; margin: 0px; vertical-align: 0px; line-height: normal; width: 0px; height: 3.987em;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;box-sizing: content-box; transition: none; position: absolute; border: 0px; padding: 0px; margin: 0px; vertical-align: 0px; line-height: normal; top: -3.808em; left: 0.696em;&quot;&gt;&lt;span style=&quot;box-sizing: content-box; transition: none; display: inline; position: static; border: 0px; padding: 0px; margin: 0px; vertical-align: 0px; line-height: normal;&quot; id=&quot;MathJax-Span-160&quot; class=&quot;texatom&quot;&gt;&lt;span style=&quot;box-sizing: content-box; transition: none; display: inline; position: static; border: 0px; padding: 0px; margin: 0px; vertical-align: 0px; line-height: normal;&quot; id=&quot;MathJax-Span-161&quot; class=&quot;mrow&quot;&gt;&lt;span style=&quot;box-sizing: content-box; transition: none; display: inline; position: static; border: 0px; padding: 0px; margin: 0px; vertical-align: 0px; line-height: normal; font-family: MathJax_Main;&quot; id=&quot;MathJax-Span-162&quot; class=&quot;mn&quot;&gt;4&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;box-sizing: content-box; transition: none; display: inline-block; position: static; border: 0px; padding: 0px; margin: 0px; vertical-align: 0px; line-height: normal; width: 0px; height: 3.987em;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;box-sizing: content-box; transition: none; display: inline; position: static; border: 0px; padding: 0px 0px 0px 0.292em; margin: 0px; vertical-align: 0px; line-height: normal; font-family: MathJax_Main;&quot; id=&quot;MathJax-Span-163&quot; class=&quot;mo&quot;&gt;=&lt;/span&gt;&lt;span style=&quot;box-sizing: content-box; transition: none; display: inline; position: static; border: 0px; padding: 0px 0px 0px 0.292em; margin: 0px; vertical-align: 0px; line-height: normal; font-family: MathJax_Main;&quot; id=&quot;MathJax-Span-164&quot; class=&quot;mo&quot;&gt;{&lt;/span&gt;&lt;span style=&quot;box-sizing: content-box; transition: none; display: inline; position: static; border: 0px; padding: 0px; margin: 0px; vertical-align: 0px; line-height: normal;&quot; id=&quot;MathJax-Span-165&quot; class=&quot;msubsup&quot;&gt;&lt;span style=&quot;box-sizing: content-box; transition: none; display: inline-block; position: relative; border: 0px; padding: 0px; margin: 0px; vertical-align: 0px; line-height: normal; width: 1.042em; height: 0px;&quot;&gt;&lt;span style=&quot;box-sizing: content-box; transition: none; position: absolute; border: 0px; padding: 0px; margin: 0px; vertical-align: 0px; line-height: normal; clip: rect(3.352em, 1000.52em, 4.16em, -999.997em); top: -3.981em; left: 0em;&quot;&gt;&lt;span style=&quot;box-sizing: content-box; transition: none; display: inline; position: static; border: 0px; padding: 0px; margin: 0px; vertical-align: 0px; line-height: normal; font-family: MathJax_Math-italic;&quot; id=&quot;MathJax-Span-166&quot; class=&quot;mi&quot;&gt;a&lt;/span&gt;&lt;span style=&quot;box-sizing: content-box; transition: none; display: inline-block; position: static; border: 0px; padding: 0px; margin: 0px; vertical-align: 0px; line-height: normal; width: 0px; height: 3.987em;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;box-sizing: content-box; transition: none; position: absolute; border: 0px; padding: 0px; margin: 0px; vertical-align: 0px; line-height: normal; top: -4.327em; left: 0.523em;&quot;&gt;&lt;span style=&quot;box-sizing: content-box; transition: none; display: inline; position: static; border: 0px; padding: 0px; margin: 0px; vertical-align: 0px; line-height: normal;&quot; id=&quot;MathJax-Span-167&quot; class=&quot;texatom&quot;&gt;&lt;span style=&quot;box-sizing: content-box; transition: none; display: inline; position: static; border: 0px; padding: 0px; margin: 0px; vertical-align: 0px; line-height: normal;&quot; id=&quot;MathJax-Span-168&quot; class=&quot;mrow&quot;&gt;&lt;span style=&quot;box-sizing: content-box; transition: none; display: inline; position: static; border: 0px; padding: 0px; margin: 0px; vertical-align: 0px; line-height: normal; font-family: MathJax_Math-italic;&quot; id=&quot;MathJax-Span-169&quot; class=&quot;mi&quot;&gt;n&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;box-sizing: content-box; transition: none; display: inline-block; position: static; border: 0px; padding: 0px; margin: 0px; vertical-align: 0px; line-height: normal; width: 0px; height: 3.987em;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;box-sizing: content-box; transition: none; display: inline; position: static; border: 0px; padding: 0px; margin: 0px; vertical-align: 0px; line-height: normal;&quot; id=&quot;MathJax-Span-170&quot; class=&quot;msubsup&quot;&gt;&lt;span style=&quot;box-sizing: content-box; transition: none; display: inline-block; position: relative; border: 0px; padding: 0px; margin: 0px; vertical-align: 0px; line-height: normal; width: 1.1em; height: 0px;&quot;&gt;&lt;span style=&quot;box-sizing: content-box; transition: none; position: absolute; border: 0px; padding: 0px; margin: 0px; vertical-align: 0px; line-height: normal; clip: rect(3.121em, 1000.41em, 4.16em, -999.997em); top: -3.981em; left: 0em;&quot;&gt;&lt;span style=&quot;box-sizing: content-box; transition: none; display: inline; position: static; border: 0px; padding: 0px; margin: 0px; vertical-align: 0px; line-height: normal; font-family: MathJax_Math-italic;&quot; id=&quot;MathJax-Span-171&quot; class=&quot;mi&quot;&gt;b&lt;/span&gt;&lt;span style=&quot;box-sizing: content-box; transition: none; display: inline-block; position: static; border: 0px; padding: 0px; margin: 0px; vertical-align: 0px; line-height: normal; width: 0px; height: 3.987em;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;box-sizing: content-box; transition: none; position: absolute; border: 0px; padding: 0px; margin: 0px; vertical-align: 0px; line-height: normal; top: -4.327em; left: 0.407em;&quot;&gt;&lt;span style=&quot;box-sizing: content-box; transition: none; display: inline; position: static; border: 0px; padding: 0px; margin: 0px; vertical-align: 0px; line-height: normal;&quot; id=&quot;MathJax-Span-172&quot; class=&quot;texatom&quot;&gt;&lt;span style=&quot;box-sizing: content-box; transition: none; display: inline; position: static; border: 0px; padding: 0px; margin: 0px; vertical-align: 0px; line-height: normal;&quot; id=&quot;MathJax-Span-173&quot; class=&quot;mrow&quot;&gt;&lt;span style=&quot;box-sizing: content-box; transition: none; display: inline; position: static; border: 0px; padding: 0px; margin: 0px; vertical-align: 0px; line-height: normal; font-family: MathJax_Math-italic;&quot; id=&quot;MathJax-Span-174&quot; class=&quot;mi&quot;&gt;m&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;box-sizing: content-box; transition: none; display: inline-block; position: static; border: 0px; padding: 0px; margin: 0px; vertical-align: 0px; line-height: normal; width: 0px; height: 3.987em;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;box-sizing: content-box; transition: none; display: inline; position: static; border: 0px; padding: 0px 0px 0px 0.292em; margin: 0px; vertical-align: 0px; line-height: normal; font-family: MathJax_Main;&quot; id=&quot;MathJax-Span-175&quot; class=&quot;mo&quot;&gt;:&lt;/span&gt;&lt;span style=&quot;box-sizing: content-box; transition: none; display: inline; position: static; border: 0px; padding: 0px 0px 0px 0.292em; margin: 0px; vertical-align: 0px; line-height: normal; font-family: MathJax_Main;&quot; id=&quot;MathJax-Span-176&quot; class=&quot;mn&quot;&gt;1&lt;/span&gt;&lt;span style=&quot;box-sizing: content-box; transition: none; display: inline; position: static; border: 0px; padding: 0px 0px 0px 0.292em; margin: 0px; vertical-align: 0px; line-height: normal; font-family: MathJax_Main;&quot; id=&quot;MathJax-Span-177&quot; class=&quot;mo&quot;&gt;≤&lt;/span&gt;&lt;span style=&quot;box-sizing: content-box; transition: none; display: inline; position: static; border: 0px; padding: 0px 0px 0px 0.292em; margin: 0px; vertical-align: 0px; line-height: normal; font-family: MathJax_Math-italic;&quot; id=&quot;MathJax-Span-178&quot; class=&quot;mi&quot;&gt;n&lt;/span&gt;&lt;span style=&quot;box-sizing: content-box; transition: none; display: inline; position: static; border: 0px; padding: 0px 0px 0px 0.292em; margin: 0px; vertical-align: 0px; line-height: normal; font-family: MathJax_Main;&quot; id=&quot;MathJax-Span-179&quot; class=&quot;mo&quot;&gt;≤&lt;/span&gt;&lt;span style=&quot;box-sizing: content-box; transition: none; display: inline; position: static; border: 0px; padding: 0px 0px 0px 0.292em; margin: 0px; vertical-align: 0px; line-height: normal; font-family: MathJax_Math-italic;&quot; id=&quot;MathJax-Span-180&quot; class=&quot;mi&quot;&gt;m&lt;/span&gt;&lt;span style=&quot;box-sizing: content-box; transition: none; display: inline; position: static; border: 0px; padding: 0px; margin: 0px; vertical-align: 0px; line-height: normal; font-family: MathJax_Main;&quot; id=&quot;MathJax-Span-181&quot; class=&quot;mo&quot;&gt;}&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;box-sizing: content-box; transition: none; display: inline-block; position: static; border: 0px; padding: 0px; margin: 0px; vertical-align: 0px; line-height: normal; width: 0px; height: 2.197em;&quot;&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;box-sizing: content-box; transition: none; display: inline-block; position: static; border-width: 0px; border-top-style: initial; border-right-style: initial; border-bottom-style: initial; border-left-style: solid; border-color: initial; border-image: initial; padding: 0px; margin: 0px; vertical-align: -0.343em; line-height: normal; color: rgb(51, 51, 51); font-family: &amp;quot;Open Sans&amp;quot;, sans-serif; text-wrap-mode: nowrap; background-color: rgb(255, 255, 255); overflow: hidden; width: 0px; height: 1.32em;&quot;&gt;&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="10" width="280" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="--yt4MyBfFRbsBWCZ8c2-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#e51400;strokeColor=#B20000;strokeWidth=2;" edge="1" parent="1" source="--yt4MyBfFRbsBWCZ8c2-1" target="--yt4MyBfFRbsBWCZ8c2-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="170" as="sourcePoint" />
+            <mxPoint x="750" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="--yt4MyBfFRbsBWCZ8c2-15" value="b/1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="--yt4MyBfFRbsBWCZ8c2-7">
+          <mxGeometry x="-0.0006" relative="1" as="geometry">
+            <mxPoint y="-20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="--yt4MyBfFRbsBWCZ8c2-18" value="b" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="--yt4MyBfFRbsBWCZ8c2-7">
+          <mxGeometry x="-0.0868" y="1" relative="1" as="geometry">
+            <mxPoint x="3" y="21" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="--yt4MyBfFRbsBWCZ8c2-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#e51400;strokeColor=#B20000;strokeWidth=2;" edge="1" parent="1" source="--yt4MyBfFRbsBWCZ8c2-2" target="--yt4MyBfFRbsBWCZ8c2-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="170" as="sourcePoint" />
+            <mxPoint x="750" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="--yt4MyBfFRbsBWCZ8c2-16" value="Z&lt;sub&gt;0&lt;/sub&gt;/Z&lt;sub&gt;0&lt;/sub&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="--yt4MyBfFRbsBWCZ8c2-8">
+          <mxGeometry x="-0.0695" y="1" relative="1" as="geometry">
+            <mxPoint y="-19" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="--yt4MyBfFRbsBWCZ8c2-9" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fillColor=#e51400;strokeColor=#B20000;strokeWidth=2;" edge="1" parent="1" source="--yt4MyBfFRbsBWCZ8c2-3" target="--yt4MyBfFRbsBWCZ8c2-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="170" as="sourcePoint" />
+            <mxPoint x="750" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="--yt4MyBfFRbsBWCZ8c2-17" value="Z&lt;sub&gt;0&lt;/sub&gt;/1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="--yt4MyBfFRbsBWCZ8c2-9">
+          <mxGeometry x="-0.0351" y="3" relative="1" as="geometry">
+            <mxPoint y="-17" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="--yt4MyBfFRbsBWCZ8c2-10" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;q&lt;sub style=&quot;&quot;&gt;3&lt;/sub&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="685" y="165" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="--yt4MyBfFRbsBWCZ8c2-11" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;curved=1;fillColor=#e51400;strokeColor=#B20000;strokeWidth=2;" edge="1" parent="1" source="--yt4MyBfFRbsBWCZ8c2-1" target="--yt4MyBfFRbsBWCZ8c2-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="170" as="sourcePoint" />
+            <mxPoint x="750" y="120" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="240" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="--yt4MyBfFRbsBWCZ8c2-19" value="a" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="--yt4MyBfFRbsBWCZ8c2-11">
+          <mxGeometry x="0.4905" y="14" relative="1" as="geometry">
+            <mxPoint y="-13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="--yt4MyBfFRbsBWCZ8c2-22" value="Z&lt;sub&gt;0&lt;/sub&gt;/Z&lt;sub&gt;0&lt;/sub&gt;b" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="--yt4MyBfFRbsBWCZ8c2-11">
+          <mxGeometry x="-0.4705" y="13" relative="1" as="geometry">
+            <mxPoint y="15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="--yt4MyBfFRbsBWCZ8c2-23" value="b/bb" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="--yt4MyBfFRbsBWCZ8c2-11">
+          <mxGeometry x="0.4804" y="13" relative="1" as="geometry">
+            <mxPoint y="36" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="--yt4MyBfFRbsBWCZ8c2-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;curved=1;fillColor=#e51400;strokeColor=#B20000;strokeWidth=2;" edge="1" parent="1" source="--yt4MyBfFRbsBWCZ8c2-2" target="--yt4MyBfFRbsBWCZ8c2-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="170" as="sourcePoint" />
+            <mxPoint x="750" y="120" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="400" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="--yt4MyBfFRbsBWCZ8c2-20" value="b" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="--yt4MyBfFRbsBWCZ8c2-13">
+          <mxGeometry x="-0.4794" y="14" relative="1" as="geometry">
+            <mxPoint y="-14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="--yt4MyBfFRbsBWCZ8c2-24" value="b/1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="--yt4MyBfFRbsBWCZ8c2-13">
+          <mxGeometry x="0.4726" y="12" relative="1" as="geometry">
+            <mxPoint x="-2" y="15" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="--yt4MyBfFRbsBWCZ8c2-14" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;curved=1;fillColor=#e51400;strokeColor=#B20000;strokeWidth=2;" edge="1" parent="1" source="--yt4MyBfFRbsBWCZ8c2-3" target="--yt4MyBfFRbsBWCZ8c2-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="170" as="sourcePoint" />
+            <mxPoint x="750" y="120" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="560" y="360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="--yt4MyBfFRbsBWCZ8c2-21" value="b" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="--yt4MyBfFRbsBWCZ8c2-14">
+          <mxGeometry x="-0.4827" y="12" relative="1" as="geometry">
+            <mxPoint x="2" y="-14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="--yt4MyBfFRbsBWCZ8c2-25" value="Z&lt;sub&gt;0&lt;/sub&gt;/Z&lt;sub&gt;0&lt;/sub&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=16;" vertex="1" connectable="0" parent="--yt4MyBfFRbsBWCZ8c2-14">
+          <mxGeometry x="-0.4555" y="12" relative="1" as="geometry">
+            <mxPoint x="1" y="13" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="--yt4MyBfFRbsBWCZ8c2-26" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Zadanie 7&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;a) &lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;S-&amp;gt;aSc|aPc&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;P-&amp;gt;bPc|bc&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;b)&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;S-&amp;gt;aPb|aSb&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;P-&amp;gt;bP|b&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;c)&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;S-&amp;gt;aSc|P&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;P-&amp;gt;bbbbA&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;A-&amp;gt;bA|b&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;d)&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;S-&amp;gt;abb|aSbb&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="360" width="360" height="200" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
